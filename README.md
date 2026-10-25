@@ -52,7 +52,7 @@ Logistic Regression outperformed Naive Bayes on every metric, especially recall,
 
 ## Repository contents
 - `big_data_analytics_spark.ipynb`: full notebook with code, outputs, and charts
-- `titanic.csv`: dataset for Part 2
+- `TitanicData1.csv`: dataset for Part 2
 - Chart images used in this README
 
 ## Data source
