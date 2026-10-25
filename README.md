@@ -48,7 +48,7 @@ Titanic passenger dataset (891 records), predicting survival from passenger attr
 
 Logistic Regression outperformed Naive Bayes on every metric, especially recall, identifying 72% of survivors compared with 52%.
 
-![Confusion matrices](confusion_matrices.png)
+
 
 ## Repository contents
 - `big_data_analytics_spark.ipynb`: full notebook with code, outputs, and charts
